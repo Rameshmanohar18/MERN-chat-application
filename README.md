@@ -1,10 +1,10 @@
 # RAMESH - Chat Application
 
-SNAPPY is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+RAMESH is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
 
-![login page](./images/SNAPPY \_login.png)
+![login page](./images/RAMESH \_login.png)
 
-![home page](./images/SNAPPY .png)
+![home page](./images/RAMESH .png)
 
 ## Installation Guide
 
